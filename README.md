@@ -1,7 +1,7 @@
 # SPEECH-RECOGNITION-SYSTEM
 Name: Modala Naresh Sagar
 Company: CodTech IT Solutions Pvt. Ltd
-Intern ID: CT12EFC
+Intern ID: CT08EEX
 Domain: Embedded Systems
 Duration: December 17, 2024, to February 17, 2025
 Project Overview
